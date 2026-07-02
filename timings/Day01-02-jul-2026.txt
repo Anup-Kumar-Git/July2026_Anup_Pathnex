@@ -1,7 +1,7 @@
 #TODAY TASK---------------
 
 3 hours-watched todays video two times
-1.5 hours-AWS account created,new cluster,connect to Puttu
+1.5 hours-AWS account created,new cluster,connect to Putty
 an hour-github setup
 30 minutes-coding practice
 1.5 hours-linux video on youtube
