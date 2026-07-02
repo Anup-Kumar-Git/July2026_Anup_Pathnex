@@ -1,0 +1,17 @@
+#TODAY TASK---------------
+
+3 hours-watched todays video two times
+1.5 hours-AWS account created,new cluster,connect to Puttu
+an hour-github setup
+30 minutes-coding practice
+1.5 hours-linux video on youtube
+1.5 hours-read some basic about the DevOps tools
+
+
+
+#TOMORROW what i will do-----------------
+
+1.5 hours-coding(both L1 and L2 task)
+watch tomorrow's session atleast two times
+read the documentation about Linux
+read documentation about DevOps tools
