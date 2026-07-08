@@ -1,0 +1,15 @@
+#TODAY WHAT I DID--------------------------------
+ 2 hours- Linux revision & Bash Scripting
+ 3 hours- watched Today's topic lecture  from previous month
+ 1- hour- coding practice and Git push
+ 1.5 hours- read about Docker & kubernetes
+ 45minutes - English practice
+
+
+
+#next day task----------------------
+ revision of latest topic
+ coding practice
+ intro video
+ english practice
+ 
