@@ -1,0 +1,15 @@
+## TODAY WHAT I DID-------------------------------------
+
+ 1.5 hours- coding practice/try to understand using chatgpt and pushed on github
+ 3 hours- Visit on AWS and try to understand it;s services
+ 2 hours- Today's session revision
+ 1 hour- revision linux and Git
+ 45 mins- intro record and english practice
+
+
+##Tomorrow's task--------
+ revision of Aws
+ Linux and git revision
+ read about Docker
+ coding practice
+ 
