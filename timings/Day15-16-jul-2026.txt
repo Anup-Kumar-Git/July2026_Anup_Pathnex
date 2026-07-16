@@ -1,0 +1,14 @@
+## TODAY WHAT I DID----------------------------------------
+
+   3 hours- setup k8s cluster with putty
+   3 hours- revision today's session
+   1 hour- coding practice
+   1 hour- intro record and english speaking
+
+
+
+## TOMORROW'S TASK--------------------------------------
+  revision 
+  try to setup again
+  coding practice
+  
