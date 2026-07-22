@@ -1,0 +1,14 @@
+##TODAY'S TASK--------------------------------
+ 3 hours-terraform revision
+ 3 hours- k8s revision
+ 2 hours- helm/AgroCD revision
+ 1 hour- coding practice/git push
+ 1 hour- intro/english practice
+
+
+
+## TOMORROW'S TASK-------------------------------------------
+ REVISION ANSIBLE
+ REVISION TERRAFORM
+ GIT PUSH/CODING PRACTICE
+ 
