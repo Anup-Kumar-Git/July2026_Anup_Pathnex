@@ -1,0 +1,13 @@
+## WHAT I DID TODAY-----------------------------------
+
+ 3 HOURS-AgroCD revision
+ 2 hours-helm revision
+ 2 hours- terraform
+ 1 hour- coding/git push
+ 1 hour- intro record /english speaking
+
+
+## TOMORROW'S TASK
+ REVISION K8S
+ TERRAFORM REVISON
+ CODING
