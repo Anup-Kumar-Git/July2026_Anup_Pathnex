@@ -1,0 +1,15 @@
+## What i did today-------------------------------------
+
+ 4 hours- Revision today's session
+ 1 hour- coding & Git push
+ 2 hours- revision of Aws
+ 45 minutes- english practice and intro record
+ 
+
+
+##Tomorrow's task---------------------------------------
+ 
+ revision of K8s
+ coding
+ setup of K8s in EC2
+ present daysession revision
