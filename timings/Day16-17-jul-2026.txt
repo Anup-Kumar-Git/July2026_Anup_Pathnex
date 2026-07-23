@@ -1,0 +1,14 @@
+ ##Today what i did------------------------
+ 
+  3 hours-k8s setup succesfully
+  3 revision- docker,aws 
+  1 hour - coding/git push
+  1 hour -intro record/ english speaking
+
+ 
+ ##Tomorrow's task-----------------------------
+
+  present day session revision
+  pracricle practice of k8s
+  coding
+  
