@@ -1,0 +1,12 @@
+## what i did today--------------------------------
+
+  3 hours-ci/cd andAnsible revision
+  3 hours- revision terraform
+  1 hour- coding/git push
+  1 hour- intro/english practice
+
+
+## tomorrow's task-----------------------------------
+ revision grafana,jenlkins
+ revision ELK
+ coding
