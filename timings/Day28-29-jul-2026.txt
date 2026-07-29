@@ -1,0 +1,12 @@
+#today's task-----------------------------
+3 hours- revision CAB
+3 hours- ssl/SRE revision
+1 jour- coding/git push
+1 hour- intro/eng practice
+
+
+# TOMORROW'S TASK----------------------------
+revision DevSecOps
+revision terraform
+revision Ansible
+
