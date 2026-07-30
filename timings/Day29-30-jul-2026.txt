@@ -1,0 +1,14 @@
+# TODAY'S TASK---------------------------
+ 2 hours- revision DevSecOps
+ 2 hours- k8s revision
+ 3 hours- docker/kafka revision
+ coding/git push
+ intro record/ english practice
+
+
+#TOMORROW'S TASK------------------------------------
+ revision teraform
+revision ci/cd
+ revision RAG
+ coding/git push
+ english practice
