@@ -1,0 +1,11 @@
+# TODAY'S TASK---------------------
+ 3 hours - k8s revision/practice
+ 2 hours- Terraform practice
+ 2 hours- Rag revision
+ 1 hours- coding/git push
+ intro record/english practice
+
+# Tomorrow's task---------------------------
+ revison Docker
+ revision CI/CD
+ revison Jenkins
