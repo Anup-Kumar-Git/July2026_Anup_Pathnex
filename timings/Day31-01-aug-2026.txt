@@ -1,0 +1,13 @@
+# Today's task------------------
+2 hours- revision terraform
+2 hours- Aws
+3 hours- k8s revision/practice
+1 hour- coding/ git push
+1 hour- intro record/eng practice
+
+
+##tomorrow's task----------------------------------
+ revision Ansible
+ revision CI/CD
+ coding
+
