@@ -1,0 +1,11 @@
+# today'stask-----------------
+ git revision/ interview question
+ k8s revision
+ intro record
+ git push/coding
+
+
+# tomorrow task-----------------------
+ Aws revision
+ coding
+git push
