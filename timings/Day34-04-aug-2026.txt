@@ -1,0 +1,14 @@
+# TODAY'S TASK-------------------
+  Aws revision
+   Docker revision/ interview question
+   coding practice / git push
+   english practice
+
+
+
+
+
+# TOMORROW'S TASK-------------------------
+ REVISION DOCKER
+ REVISION K8S
+ CODING/GIT PUSH
