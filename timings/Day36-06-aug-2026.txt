@@ -1,0 +1,14 @@
+# TODAY'S TASK----------------------\
+
+   revision terraform/ interview question
+   revision Docker/ interview question
+   coding/git push
+   english practice/intro record
+
+
+
+
+# Tmorrow's task-----------------------
+  revision k8s/ interview question
+   revision /terraform
+   coding
