@@ -1,0 +1,13 @@
+# today's task----------------------
+
+ revision AWS
+ revision Docker
+ coding practice/git push
+ english practice
+
+
+#Tomorrow's task--------------------
+
+ revision terraform
+ revision Docker
+ coding

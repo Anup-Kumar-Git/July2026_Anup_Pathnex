@@ -1,0 +1,97 @@
+# DAY 06 - CODING PRACTICE L1-------------------------------------------
+
+ # DEBUG DAY (FIX THESE BROKRN FILES)
+
+	🔹 Ansible (broken)
+
+	---
+	- name: install nginx
+	  host: all
+	  becoome: yes
+	  tasks:
+		- name: install nginx
+		  yum:
+			name: nginx
+			state: present
+
+
+
+	🔹 Terraform (broken)
+
+	resource "aws_instance" "brokenEC2"{
+		ami    ="ami-0123abc"
+		instance_type = "tr.micro"
+		tags {
+			 name= "broken"
+		}
+	}
+
+
+
+	🔹 Kubernetes (broken)
+
+	apiVersion : v1
+	kind: pod
+	metadata:
+		name: pathnex
+	spec:
+		containers:
+			- name: app
+			  image: nginx
+
+
+
+	🔹 Jenkins Pipeline — Debugging
+
+		learn how to **fix broken stages and handle errors**.
+		
+	pipeline{
+	    agent any
+		stages {
+		    stage('checkout') {
+				steps {
+				    gitbranch: 'main',url: 'https://github.com/Pathnex/sample-java-app.git'
+				}
+			}
+			stage('Build')  {
+				steps {
+					sh '''
+					mvn clean compile || { echo " compile failed"; exit 1;}
+				}
+			}
+			stage('Test') {
+				steps {
+					sh '''
+					mvn test || { echo "Test Failed"; exit 1;}
+					'''
+				}
+			}
+		}
+	}
+
+
+
+	🔹 GitLab CI — Debugging
+
+	stages:
+	   - build
+	   - test
+
+	build:
+		stage: build
+		image: mavan:3.8.1-jdk-17
+		script:
+			- git clone  https://github.com/Pathnex/sample-java-app.git
+				- cd sample-java-app
+				- mvn clean compile || {
+echo "compile failed"; exit1;}
+
+	test:
+		stage: test
+		image: maven:3.8.1-jdk-17
+		script:
+			- cd sample- java-app
+			- mvn test || { echo "test failed"; exit 1;}
+
+
+
