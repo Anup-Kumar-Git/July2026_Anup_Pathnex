@@ -1,0 +1,168 @@
+# DAY 07 -CODING PRACTICE L1-----------------------------
+
+ # SPEED TYPING
+
+
+ 	🔹 ANSIBLE: INSTALL NGINX
+
+ 	---
+	 - name: Install package for pathnex
+	   hosts: all
+	   become: yes
+
+	tasks:
+		- name: install tools
+	yum:
+	    name:
+		-git
+		-wget
+		state: present
+
+
+	🔹 Terraform — EC2 
+	
+	provider "aws" {
+		region = "us-east-1"
+	}
+	
+	resource "aws_key_pair" "pathnexKey" {
+		key_name = "pathnexKey"
+		public_key = "ssh-Rsa AAA...."
+	}
+
+	resource "aws_instance" "pathnexEC2" {
+	  ami= "ami01234abcd1234abcd"
+	   instance_type = "c6.xlarge"
+	  key_name  = aws.key.pair.pathnexKey.key_name
+
+
+		tags= {
+			name ="Pathnex-Ec2"
+		}
+	}
+
+
+	🔹Kubernetes: Deployment 2 replicas
+
+	apiVersion : apps/v1
+	kind: deployment
+
+	metadata:
+	   name: nginx-deployment
+	
+	spec:
+		replicas: 2
+
+		selector:
+	 	   matchLables:
+			app: nginx
+		template
+		   metadata:
+			lables:
+			   app: nginx
+
+		spec:
+		   containers:
+			- name:nginx
+			image: nginx:lates
+
+		  ports:
+		      - containerPort: 80
+
+
+	🔹Shell: Print date + uptime	
+
+	#!/bin/bash
+		
+	echo "current date and time: "
+	date
+
+	echo "system Uptinme: "
+	uptime
+
+
+
+
+# Parameterized Builds----------------------------------------
+
+	🔹 Jenkins Pipeline — Parameterized
+
+
+	learn how to **create parameterized builds in Jenkins**.
+
+	pipeline {
+		agent any 
+		parametrs{
+			string( name:'Enivorment' , defaultValue: 'dev', description: 'Deployment Envirionment')
+		}
+
+		environment {
+			Institute_Name="pathnex"
+		}
+
+		stages {
+			stage ('checkout') {
+				steps{
+					git url: 'https://github.com/Pathnex/sample-java-app.git'
+				}
+			}
+		
+			stage('Deplpoy') {
+				steps {
+					sh 'echo "deploying to $ENVIRONMENT by Institute_Name"'
+				}
+			}
+		}
+	}
+
+
+	🔹 GitLab CI — Parameterized via Variables
+
+	stages:
+		- deploy
+
+	variables:
+	   Insitute_Name: "Pathnex"
+	   ENVIRONMENT: "dev"
+
+        deploy:
+		stage: deploy
+		image: alpine:laatest
+		script:
+			- echo "Deploying to $ENVIRONMENT by $Insitute_NAme"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
