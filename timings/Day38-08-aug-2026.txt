@@ -1,0 +1,15 @@
+# TODAY'S TASK-----------------------
+
+ revision Ansible
+ practicle Ansible
+ revision k8s
+ practicle k8s
+ coding practice
+
+
+
+# TOMORROW'S TASK---------------------------
+
+ REVISION K8S
+ PRACTICE K8S
+ CODING PRACTICE
