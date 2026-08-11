@@ -1,0 +1,13 @@
+# TODAY'S TASK------------------------
+
+ REVISION K8S
+ INTERVIEW QUESTION K8S
+ PRACTICLE promethius & Grafana
+ coding/git push
+
+
+# Tomorrow's task---------------------------
+
+ revision ansible
+ coding
+ git push
