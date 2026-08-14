@@ -1,0 +1,13 @@
+# TODAY'S TASK-------------------
+
+ revision kafka
+ revision elk
+ git push
+ coding
+
+
+# TOMORROW'S TASK----------------------
+
+ REVISION SLS/TLS
+ REVISION DEVSECOPS
+ CODING/GIT PUSH
