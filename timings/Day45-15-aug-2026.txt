@@ -1,0 +1,16 @@
+# TODAY'S WHAT I DID------------------------
+
+ REVISION LINUX/QUESTION
+ REVISION GIT/QUESTION
+ coding practice
+ git push
+
+
+
+# TOMORROW'S TASK--------------------------
+
+ REVISION DOCKER/QUESTION
+ REVISION AWS/QUESTION
+ COING PRACTICE
+
+
